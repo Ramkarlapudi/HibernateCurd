@@ -9,5 +9,8 @@ public class HibernateCurdApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(HibernateCurdApplication.class, args);
 	}
+	
+	
+	
 
 }
