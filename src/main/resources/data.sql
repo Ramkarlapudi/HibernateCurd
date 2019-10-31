@@ -1,0 +1,2 @@
+INSERT INTO Customer (CUSTOMER_ID , ADDRESS, CITY, EMAIL, FIRST_NAME, LAST_NAME ,STATE ,ZIP )
+VALUES ('1', 'Gachibowli', 'Hyderabad21', 'Ramkarlapudi@gmail.com', 'Ram', 'Karlapudi','Telangana','500032 ');
